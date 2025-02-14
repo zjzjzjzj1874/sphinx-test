@@ -1,8 +1,8 @@
 <!--
  * @Author: zhoujian zhoujian@industai.com
  * @Date: 2025-02-14 15:48:27
- * @LastEditors: zhoujian zhoujian@industai.com
- * @LastEditTime: 2025-02-14 16:03:01
+ * @LastEditors: zjzjzjzj1874 zjzjzjzj1874@gmail.com
+ * @LastEditTime: 2025-02-14 16:16:41
  * @FilePath: /sphinx/README.md
  * @Description: Sphinx文档
 -->
@@ -23,6 +23,11 @@ make html
 * 打开
 ```
 open build/html/index.html
+```
+
+* 创建latexpdf
+```
+make latexpdf # latexmk这个工具需要哦
 ```
 
 
